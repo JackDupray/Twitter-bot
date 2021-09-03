@@ -1,0 +1,10 @@
+
+{
+	"origin": "(#Last name#, #First name#) #Action# their #Body# in an accident involving a #Accident#",
+	"First name" : ["Jack", "Aidan", "Jonathan", "Jillian", "Crystal", "John", "Adam", "Will", "Bill", "Christopher", "Bruce", "Samantha", "Madison", "Harold", "Alex", "Elena", "Alexis", "Ben", "Ray", "Katherine", "Kenya"],
+	"Last name" : ["Dupray", "Lee", "Zwemmer", "Jones", "Suggs", "Mann", "Egree", "Smith", "Johnson", "Williams", "Brown", "Garcia", "Miller"],
+	
+	"Action" : ["scraped",  "snapped", "broke",  "crushed", "destroyed", "obliterated", "messed up", "inverted", "shattered", "fucked up"],
+	"Body" : ["arm", "leg", "ear", "knee", "finger", "toe", "elbow", "nose", "ACL", "tibia", "back", "heel", "shoulder", "neck", "face", "rotator cuff", "forearm", "shoulder blade", "triceps", "biceps", "deltoid", "sartorius", "patella" ],
+	"Accident" : ["slinky", "toy hammer", "meme-off", "television", "cat", "bike going down a hill at 50 miles per hour", "slightly inclined ramp", "towel", "double A battery", "sock", "lamp shade", "Xbox versus Play station argument", "phone", "barely working remote", "Bose speaker", "rug and a pug", "band-aid from a preexisting injury", "heated argument over politics", "red solo cup", "huge bottle of water", "pissed off emu", "very intoxicated Australian", "1994 windows computer", "run away mobile home", "bag of packing peanuts", "six foot long measuring tape", "magnifying glass", "milk jug", "stolen stop sign", "race against an old man in a wheelchair", "sharpie", "riding lawnmower", "rock skipping competition", "plate of poorly cut steak", "military grade tablet that was frisbeed at them"]
+}
