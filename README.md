@@ -1,4 +1,4 @@
-# Pokemon name generator
-A repository to find new pokemon
-[Name](URL)
+# Doctor Node Gree (bot for fake injuries)
+A repository to make fake scenarios with obsurd circumstances
+[Dr. Nod Gree](https://twitter.com/DrNod/with_replies)
 
